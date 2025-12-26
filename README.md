@@ -1,3 +1,3 @@
 # Sales-Dashboard-Project
 An interactive Power BI dashboard helps a company by providing a single, real-time view of its business performance, making data easy to understand and act upon. It highlights top and bottom performing products, enabling better inventory planning and product strategy decisions. Sales trends over time help management identify seasonality, track growth, and forecast future demand. The sales–profit correlation reveals whether increased sales are actually contributing to profitability. Discount analysis shows how pricing and promotions impact margins, helping optimize discount strategies. Order-level details allow teams to drill down into specific transactions to identify issues or opportunities.
-https://github.com/soni1710/Sales-Dashboard-Project/blob/main/Overview.png
+(https://github.com/soni1710/Sales-Dashboard-Project/blob/main/Overview.png)
